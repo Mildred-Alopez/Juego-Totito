@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
+
+.cuadros {
+    height: 160px;
+    width: 24%;
+}
+
+.centrar {
+    margin-left: 20%;
+}
+
+.boton-reiniciar {
+    margin-left: 40%;
+    margin-top: 15px;
+    background-color: black;
+    color: aqua;
+    width: 250px;
+    outline: none;
+}
+
+.pantalla-1 {
+    width: 95px;
+    height: 40px;
+    outline: none;
+    border: none;
+}
+
+.pantalla-2 {
+    width: 95px;
+    height: 40px;
+    outline: none;
+    border: none;
+}
